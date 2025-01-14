@@ -8,6 +8,10 @@ Created on Wed Nov 27 18:41:06 2024
 
 import re
 
+
+import requests
+
+
 def test_regex():
     print("Welcome to Regex Tester!")
     print("Enter 'exit' anytime to quit.\n")
